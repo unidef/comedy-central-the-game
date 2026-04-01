@@ -15,4 +15,8 @@
   <ItemGroup>
     <Text Include="testtmp.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
+    <None Include="BUILDING.md" />
+  </ItemGroup>
 </Project>
