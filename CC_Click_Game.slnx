@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CC_Click_Game.vcxproj" Id="6a0dba0e-63fa-42d8-a5ad-a54216ff4a5e" />
+</Solution>
